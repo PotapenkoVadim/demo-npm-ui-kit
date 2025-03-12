@@ -1,8 +1,8 @@
 {
   "name": "demo-npm-ui-kit",
-  "version": "0.0.3",
-  "main": "dist/ems/index.js",
-  "module": "dist/ems/index.js",
+  "version": "0.0.6",
+  "main": "dist/esm/index.js",
+  "module": "dist/esm/index.js",
   "files": [
     "dist/**/*"
   ],
