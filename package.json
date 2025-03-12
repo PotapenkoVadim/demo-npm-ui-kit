@@ -1,9 +1,9 @@
 {
-  "name": "@PotapenkoVadim/demo-npm-ui-kit",
+  "name": "@PotapenkoVadim/demo-npm-uikit",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/PotapenkoVadim"
   },
-  "version": "0.0.3",
+  "version": "0.0.1",
   "main": "dist/ems/index.js",
   "module": "dist/ems/index.js",
   "files": [
